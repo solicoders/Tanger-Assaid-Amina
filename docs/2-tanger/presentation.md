@@ -19,3 +19,4 @@ order: 1
 
 <!-- new slide -->
 # Conclusion
+![Tanger](/Tanger-Assaid-Amina/2-tanger/images/conc.png){:width="50%" }

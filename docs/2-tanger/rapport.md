@@ -35,3 +35,6 @@ D'abord établie sur la colline de la kasbah, la ville de Tanger s'est progressi
 Markdown est qu'il s'agit d'un langage de balisage léger utilisé pour formater du texte de manière simple et facile à lire. C'est un outil très utile pour créer des documents formatés sans avoir à utiliser un éditeur de texte compliqué. Markdown permet aux utilisateurs d'ajouter rapidement des en-têtes, des listes, des liens, des images et d'autres éléments de mise en forme de base à leurs documents. De plus, il est compatible avec la plupart des plateformes et des programmes d'édition de texte. En résumé, Markdown est un outil simple mais puissant pour la création de documents formatés.
 
 
+![Tanger](/Tanger-Assaid-Amina/2-tanger/images/conc.png)
+
+
